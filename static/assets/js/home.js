@@ -199,12 +199,10 @@ SplashE.addEventListener("click", US);
 function getRandomUrl() {
   const randomUrls = [
     "https://kahoot.it",
-    "https://classroom.google.com",
     "https://drive.google.com",
     "https://google.com",
     "https://docs.google.com",
     "https://slides.google.com",
-    "https://www.nasa.gov",
     "https://blooket.com",
     "https://clever.com",
     "https://edpuzzle.com",
